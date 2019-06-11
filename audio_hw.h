@@ -1,3 +1,6 @@
+/* SPDX-License-Identifier: Apache-2.0 */
+/* Copyright (C) 2015 Socioenxt Inc. */
+
 #ifndef __AUDIO_HW_H__
 #define __AUDIO_HW_H__
 
